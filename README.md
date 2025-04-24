@@ -6,9 +6,9 @@
 <h1></h1>
 
 <p align="center">
-  <a href="#assembly">Dependencies</a> •
+  <a href="#dependencies">Dependencies</a> •
   <a href="#how-to-use">How To Use</a> • 
-  <a href="#photoshoot">Demo</a> •
+  <a href="#demo">Demo</a> •
 </p>
 
 # **Dependencies**
@@ -20,6 +20,10 @@
   4. Install matplotlib
      ```
      pip install matplotlib
+     ```
+  5. Install Gooey
+     ```
+     pip install Gooey
      ```
   6. Run main.py
 
