@@ -39,4 +39,4 @@
 # **Demo**
 
 Watch a demo of the simulation!
-![demo]()
+[![Watch the video](https://github.com/Jstn1321/CSP-Project/blob/main/ReadMeFIles/thumbnail.jpg)](https://github.com/Jstn1321/CSP-Project/blob/main/ReadMeFIles/DemoVid.mp4)
