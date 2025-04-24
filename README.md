@@ -32,5 +32,11 @@
      ```
 
 # **How to use**
+  1. Fill out all required inputs and press start
+
+  ![putininputsgif](https://github.com/Jstn1321/CSP-Project/blob/main/ReadMeFIles/HowToUseVid.gif)
 
 # **Demo**
+
+Watch a demo of the simulation!
+![demo]()
