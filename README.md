@@ -25,7 +25,11 @@
      ```
      pip install Gooey
      ```
-  6. Run main.py
+  6. Open a cmd prompt window in the folder you put the main.py folder
+  7. Run the python file
+     ```
+     python main.py
+     ```
 
 # **How to use**
 
