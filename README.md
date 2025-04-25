@@ -39,4 +39,5 @@
 # **Demo**
 
 Watch a demo of the simulation!
-[![Watch the video](https://github.com/Jstn1321/CSP-Project/blob/main/ReadMeFIles/thumbnail.jpg)](https://github.com/Jstn1321/CSP-Project/blob/main/ReadMeFIles/DemoVid.mp4)
+
+https://github.com/user-attachments/assets/d9de1887-1981-445e-828d-965e8fe0d52b
